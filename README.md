@@ -1,1 +1,1 @@
-# git-foo
+This is the commit on the master branch
